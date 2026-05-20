@@ -15,6 +15,9 @@ Passionate about building scalable cloud solutions and intelligent systems using
 <h3 align="left">🛠️ Tech Stacks:</h3>
 <h4>💻 Programming Languages</h4>
 <p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   </a>
