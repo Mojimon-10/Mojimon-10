@@ -8,7 +8,7 @@ Passionate about building scalable cloud solutions and intelligent systems using
 ---
 
 - 📫 **Reach me at:** marcjomericklo@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/marcjomericklo/
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/marcjomericklo
 
 ---
 
