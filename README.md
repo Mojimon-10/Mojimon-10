@@ -64,4 +64,4 @@ Passionate about building scalable cloud solutions and intelligent systems using
 
 ---
 
-⭐ Always learning, building, and exploring cloud + AI systems.
+⭐ Passion beats Perfection.
