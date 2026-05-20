@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc Jomerick Lo</h1>
-<h3 align="center">A passionate entry level cloud and machine learning developer</h3>
+<h3 align="center">A Passionate Entry-level Cloud and Machine Learning Developer</h3>
 
 - 📫 How to reach me **marcjomericklo@gmail.com**
 
